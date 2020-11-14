@@ -3,5 +3,5 @@ array = [1,2,3]
 new_array = []
 
 def square_array(array)
- while counter < 
+ while counter < array.length 
 end
